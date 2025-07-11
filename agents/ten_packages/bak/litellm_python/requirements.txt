@@ -1,1 +1,2 @@
-litellm==1.42.12
+litellm==1.67.4.dev1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
