@@ -1,1 +1,2 @@
 cozepy==0.6.2
+authlib>=1.6.4 # not directly required, pinned by Snyk to avoid a vulnerability
